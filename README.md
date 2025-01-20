@@ -1,4 +1,4 @@
-# User-Authentication-and-Management-System
+# User Authentication and Management System
 Technologies: Django, Django REST Framework, JWT, Python, MongoDB
 
 *  Built RESTful APIs for user registration, login, profile management, and password reset, utilizing Django and Django REST Framework for efficient backend operations.
