@@ -1,0 +1,68 @@
+{
+	"info": {
+		"_postman_id": "7e70909f-ac60-4054-991b-959cdae7b48c",
+		"name": "serializer_signal_1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "40634279"
+	},
+	"item": [
+		{
+			"name": "User Registration",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Login User",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "User Profile",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Change User Password",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Send Reset Password Email",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "User Reset Password",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	],
+	"variable": [
+		{
+			"key": "BaseSerl",
+			"value": "http://127.0.0.1:8000/"
+		},
+		{
+			"key": "Baseurl",
+			"value": "http://127.0.0.1:8000/api/user/"
+		}
+	]
+}

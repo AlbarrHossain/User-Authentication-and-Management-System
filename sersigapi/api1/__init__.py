@@ -1,0 +1,1 @@
+# default_app_config = 'api1.apps.Api1Config'
